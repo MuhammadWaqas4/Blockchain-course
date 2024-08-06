@@ -1,1 +1,1 @@
-Blockchain Course Class
+Blockchain
